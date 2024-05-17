@@ -21,11 +21,11 @@ body {
   color: #DEF2F1;
   border-radius: 10px;
   box-shadow: 10px 10px #1c3940;
-  position: absolute;
 }
 
 /* Style for home */
 .home.container {
+  position: absolute;
   padding: 30px 30px 40px;
   width: 400px;
   top: 50%;
@@ -59,10 +59,8 @@ body {
 .recipe.container {
   width: 624px;
   padding: 30px 30px 20px;
-  left: 50%;
-  transform: translateX(-50%);
   text-align: center;
-  margin: 15px 0px;
+  margin: 10px auto 20px;
 }
 
 .recipe h1,
