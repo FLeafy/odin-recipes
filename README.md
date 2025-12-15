@@ -1,4 +1,4 @@
-Odin Recipes
+#Odin Recipes
 
 Hello, this is an project based on The Odin Project, Where as im currently asked to create an recipes website using only HTML.
 
